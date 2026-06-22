@@ -22,7 +22,7 @@ Sou graduando em **Sistemas de Informação** e Técnico em **Informática pelo 
 
 Tenho interesse em desenvolvimento **Back-End** e **Banco de Dados** buscando constantemente evoluir minhas habilidades através de estudos, projetos e desafios práticos.
 
-Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de sistemas e tecnologias relacionadas à IA.
+Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de sistemas.
 
 ---
 
