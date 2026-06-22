@@ -1,10 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Eulicio%20Neto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20•%20IA%20•%20Sistemas%20de%20Informação&descAlignY=58"/>
+
+
 # 👋 Olá, eu sou Eulício Batista Neto
 
 ### 💻 Desenvolvedor em Formação | 🤖 Inteligência Artificial | ⚙️ Back-End
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Graduando+em+Sistemas+de+Informação;Técnico+em+Informática+%7C+IFBA;Apaixonado+por+Tecnologia+e+Aprendizado+Contínuo" />
+> Transformando curiosidade em conhecimento e conhecimento em soluções.
 
 </div>
 
@@ -74,22 +77,10 @@ Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de s
 
 ## 🎓 Formação
 
-### 🎓 Bacharelado em Sistemas de Informação
-Em andamento
+### 🎓 Graduando em Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB)
 
-### 💻 Técnico em Informática
-Instituto Federal da Bahia (IFBA)
+### 💻 Técnico em Informática Instituto Federal da Bahia (IFBA)
 
----
-
-## 📜 Certificações
-
-- HCIA-AI (Huawei)
-- PHP
-- Java
-- Banco de Dados MySQL
-- Algoritmos
-- Bases Numéricas
 
 ---
 
