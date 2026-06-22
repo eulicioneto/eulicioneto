@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Eulicio%20Neto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20•%20IA%20•%20Sistemas%20de%20Informação&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Eulicio%20Neto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20•%20Backend%20•%20Banco%20de%20Dados&descAlignY=58"/>
+
 
 
 # 👋 Olá, eu sou Eulício Batista Neto
 
-### 💻 Desenvolvedor em Formação | 🤖 Inteligência Artificial | ⚙️ Back-End
+### 💻 Desenvolvedor em Formação | ⚙️ Back-End
 
 > Transformando curiosidade em conhecimento e conhecimento em soluções.
 
@@ -14,6 +15,8 @@
 ---
 
 ## 🚀 Sobre Mim
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 Sou graduando em **Sistemas de Informação** e Técnico em **Informática pelo IFBA**.
 
