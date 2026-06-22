@@ -20,7 +20,7 @@
 
 Sou graduando em **Sistemas de Informação** e Técnico em **Informática pelo IFBA**.
 
-Tenho interesse em desenvolvimento **Back-End**, **Banco de Dados** e **Inteligência Artificial**, buscando constantemente evoluir minhas habilidades através de estudos, projetos e desafios práticos.
+Tenho interesse em desenvolvimento **Back-End** e **Banco de Dados** buscando constantemente evoluir minhas habilidades através de estudos, projetos e desafios práticos.
 
 Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de sistemas e tecnologias relacionadas à IA.
 
@@ -29,7 +29,6 @@ Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de s
 ## 🎯 Atualmente
 
 - 📚 Graduando em Sistemas de Informação
-- 🤖 Estudando Inteligência Artificial
 - ⚙️ Aprimorando conhecimentos em Back-End
 - 🚀 Desenvolvendo projetos para meu portfólio
 - 🌱 Aprendendo novas tecnologias
@@ -89,7 +88,7 @@ Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de s
 
 ## 🚀 Objetivos
 
-Busco desenvolver soluções utilizando programação, banco de dados e inteligência artificial, sempre focando em aprendizado contínuo e evolução profissional.
+Busco lapidar cada gradualmente os meus conhecimentos de programação, sempre focando em aprendizado contínuo e evolução profissional.
 
 ---
 
