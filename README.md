@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Eulicio Neto
+# 👋 Olá, eu sou Eulício Batista Neto
 
 ### 💻 Desenvolvedor em Formação | 🤖 Inteligência Artificial | ⚙️ Back-End
 
@@ -107,6 +107,10 @@ Busco desenvolver soluções utilizando programação, banco de dados e intelig�
 
 <a href="https://github.com/eulicioneto">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/eulicio_n/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 ---
