@@ -88,7 +88,7 @@ Atualmente estou focado em fortalecer meus conhecimentos em desenvolvimento de s
 
 ## 🚀 Objetivos
 
-Busco lapidar cada gradualmente os meus conhecimentos de programação, sempre focando em aprendizado contínuo e evolução profissional.
+Busco lapidar gradualmente os meus conhecimentos de programação, sempre focando em aprendizado contínuo e evolução profissional.
 
 ---
 
